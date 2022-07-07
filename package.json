@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test:unit": "ospec"
+  },
+  "devDependencies": {
+    "jsdom": "^20.0.0",
+    "mithril-query": "^4.0.1",
+    "ospec": "^4.1.6"
+  }
+}
